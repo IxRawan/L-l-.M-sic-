@@ -1,6 +1,6 @@
-token=NDg4NzMzODk1MDY4NjE0NjY5.Dnggug.frEqRvqmCzXDl2juFmozcdstwVU
-owner=464046823162511400
-prefix=1
-game=Tybe 1help
+token=NDkwMDAwMDc1NzI1MjA5NjAw.Dny9xg.6TXY2v19-fQgMg8ogNTY7XUArP4
+owner=446602459461189643
+prefix=L
+game=Tybe Lhelp
 stayinchannel=true
 songinstatus=true

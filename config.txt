@@ -1,5 +1,5 @@
 token=NDkwMDAwMDc1NzI1MjA5NjAw.Dny9xg.6TXY2v19-fQgMg8ogNTY7XUArP4
-owner=446602459461189643
+owner=516307527806484490
 prefix=L
 game=Tybe Lhelp
 stayinchannel=true
